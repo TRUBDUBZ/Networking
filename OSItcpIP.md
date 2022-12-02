@@ -2,11 +2,11 @@
 
 1. Physical
     
-    - voltage levels on an ithernet cables,the readio frequency of Wifi etc….
+    - voltage levels on an ethernet cables, the readio frequency of Wifi etc…
 
 2. Data Link
 
-    - this level build on physical layer, It deals with protocols for directly communicating between two nodes.It defines how a direct message between nodes starts and ends (framing), error detection and correction, and flow control.
+    - this level builds on the physical layer, it deals with protocols for directly communicating between two nodes. It defines how a direct message between nodes starts and ends (framing), error detection and correction, and flow control.
 
 3. Network Layer
 
@@ -18,7 +18,7 @@
 
 5. Session Layer
 
-    - this layer build on the the transport layer by adding methods to establish, checkpoint, suspend, resume, and terminate dialogs.
+    - this layer builds on the the transport layer by adding methods to establish, checkpoint, suspend, resume, and terminate dialogs.
 
 6. Presentation Layer
 
@@ -26,7 +26,7 @@
 
 7. Application Layer
 
-    - The application that the user interfaces with(Ex. web browsers adn email clients etc...)
+    - The application that the user interfaces with(web browsers, email clients etc..)
 
 
 - The OSI model has 7 layers while the TCP/IP has 4 Layers
