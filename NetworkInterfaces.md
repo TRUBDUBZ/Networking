@@ -14,8 +14,3 @@ Many times, administrators configure one interface to service traffic to the int
 
 In DigitalOcean, in datacenters with private networking enabled, your VPS will have two networking interfaces (in addition to the local interface). The “eth0” interface will be configured to handle traffic from the internet, while the “eth1” interface will operate to communicate with the private network.
 
-
-
-## Packets 
-
-  -  
