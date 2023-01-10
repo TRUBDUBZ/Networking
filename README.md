@@ -10,3 +10,6 @@ A basic understanding of networking is important for anyone managing a server. N
   
   - [NMAP](https://github.com/TRUBDUBZ/Networking/tree/master/NMAP)
 
+## Contributing
+
+- If you would like to contribute to this repository, please create a pull request with your changes. All contributions are welcome, whether they are     corrections, additions, or suggestions for improvement.
