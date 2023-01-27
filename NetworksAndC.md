@@ -1,6 +1,6 @@
 # Networks And C Lang 
 
-## The internet And C
+## The Internet and C 
 
   - Millions of desktops, laptops,routers and servers conneted to the internet and have been for decades. the new Internet of Things(IoT) trend atracting peoples to use and learn Networking. Almost every network stack is programmed in C.
   
