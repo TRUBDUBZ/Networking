@@ -6,7 +6,7 @@ A basic understanding of networking is important for anyone managing a server. N
 
   - [How The Web Works](https://github.com/TRUBDUBZ/Networking/tree/master/HowTheWebWorks) 
   
-  - [HTTPS](https://github.com/TRUBDUBZ/Networking/tree/master/HTTPS)
+  - [HTTP(S)](https://github.com/TRUBDUBZ/Networking/tree/master/HTTPS)
   
   - [NMAP](https://github.com/TRUBDUBZ/Networking/tree/master/NMAP)
 
