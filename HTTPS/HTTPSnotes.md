@@ -23,7 +23,7 @@
         
   **Before Encryption**
 
-`this is a string of text tht is completely readable`
+`this is a string of text that is completely readable`
 
   **After Encryption**
 
