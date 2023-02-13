@@ -105,7 +105,7 @@ Heres a list of common features controllable with HTTP:
 ```HTTP
 GET / HTTP/1.1
 Host: developer.mozilla.org
-Accept-Language: fr
+Accept-Language: en
 ```
 
 3. Read the response sent by the server, such as:
